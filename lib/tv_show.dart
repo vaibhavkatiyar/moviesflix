@@ -24,7 +24,7 @@ class _TvshowState extends State<Tvshow> {
 
 
   Future<Map> getJson() async {
-    var url = 'http://api.themoviedb.org/3/discover/movie?api_key=6a7755e386468be6db6963df9ba108fd&page=$page&sort_by=$sort';
+    var url = 'http://api.themoviedb.org/3/discover/movie?api_key=<<api_key>>&page=$page&sort_by=$sort';
     var response = await http.get(url);
 
     return json.decode(response.body);
