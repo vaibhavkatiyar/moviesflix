@@ -2,15 +2,9 @@
 
 A new Flutter application.
 
-## Getting Started
+## A movie app which has the all the latest tv shoes and movies and can search any movie or show in the database.
 
-This project is a starting point for a Flutter application.
+## Screenshots -
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.38.51%20PM%20(1).jpeg)
+![Finished App](https://github.com/vaibhavkatiyar/images/blob/main/WhatsApp%20Image%202021-06-26%20at%205.42.50%20PM.jpeg)
